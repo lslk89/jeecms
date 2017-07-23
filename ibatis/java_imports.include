@@ -6,7 +6,7 @@ import ${basepackage}.dao.${className}Dao;
 import ${basepackage}.form.${className}Form;
  
 /**
- * @author zhanglin
+ * @author May
  * @version 1.0
  * @since 1.0
  */
